@@ -1,4 +1,7 @@
-## 1.3.3 (April 10, 2021)
+## 1.3.5 (April 11, 2021)
+* Fixed React Static Router incompatibility with History npm package version > 4.7.2
+
+## 1.3.4 (April 10, 2021)
 * Updated generic notification manager and processor to use Apple APN HTTP2
 * Run ensureIndex in sequence instead of creating all indexes in parallel
 * Bugfix routes handler HMR for Windows machines 
